@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h3:hover{
+            color:  pink;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        p::first-letter{
+            font-size: 3em;
+        }
+        p::first-line{
+            background-color: aquamarine;
+        }
+    </style>
+</head>
+<body>
+    <h3>Z id</h3>
+    <div class="swim-conainer">
+        <div class="box boylittle"><img src="boylittle.jpg" alt=""></div>
+        <div class="box tire"><img src="tire.png" alt=""></div>
+        <div class="box 2"><img src="2.jpg" alt=""></div>
+    </div>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsam suscipit accusantium facilis deleniti, beatae voluptatibus quidem corporis quibusdam libero recusandae! Nobis aperiam accusantium reprehenderit soluta aut corporis, necessitatibus aliquid quaerat?</p>
+    <p>Porem, ipsum dolor sit amet consectetur adipisicing elit. Quasi molestiae minima veniam, ratione sequi autem optio ipsa, error, ipsam nisi alias sapiente ut! Sed qui praesentium animi veniam necessitatibus modi!</p>
+    <p>Jorem, ipsum dolor sit amet consectetur adipisicing elit. Nemo, voluptates minima at eius quaerat sed molestiae obcaecati consequuntur consectetur quis odio a sint deserunt, qui aliquid doloremque eos ducimus velit.</p>
+</body>
+</html>
